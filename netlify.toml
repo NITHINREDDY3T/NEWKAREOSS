@@ -2,6 +2,7 @@
 
 [build]
   # Specifies the directory where your build commands will run
+  command="npm run build"
   base = "."
   # Specifies the directory that contains your production-ready HTML files
   publish = "views"
